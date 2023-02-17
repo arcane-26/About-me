@@ -1,0 +1,12 @@
+ERROR:root:The error have occured because of divsion by zero--->division by zero
+ERROR:root:pwskill module dosnt't exist--->No module named 'pwskills'
+ERROR:root:error has occured beacause typecoversion of string in not possible ---->invalid literal for int() with base 10: 'pwskills'
+ERROR:root:error has occured beacause typecoversion of string in not possible ---->invalid literal for int() with base 10: 'pwskills'
+ERROR:root:error has occured beacause typecoversion of string in not possible ---->invalid literal for int() with base 10: 'pwskills'
+ERROR:root:error has occured beacause typecoversion of string in not possible ---->invalid literal for int() with base 10: 'pwskills'
+ERROR:root:mobile no. should consist 10 digits --->valid number
+ERROR:root:mobile no. should consist 10 digits --->mobile number is not valid
+ERROR:root:mobile no. should consist 10 digits --->valid number
+ERROR:root:mobile no. should consist 10 digits --->mobile number is not valid
+ERROR:root:Your gender can be either Male,Female or Other---->Invalid Gender
+ERROR:root:Your gender can be either Male,Female or Other---->Invalid Gender

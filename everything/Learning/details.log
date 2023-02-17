@@ -1,0 +1,41 @@
+2023-02-11 23:44:30,231 parso.python.diff DEBUG diff parser start
+2023-02-11 23:44:30,232 parso.python.diff DEBUG line_lengths old: 1; new: 7
+2023-02-11 23:44:30,232 parso.python.diff DEBUG -> code[replace] old[1:1] new[1:7]
+2023-02-11 23:44:30,233 parso.python.diff DEBUG parse_part from 1 to 7 (to 6 in part parser)
+2023-02-11 23:44:30,233 parso.python.diff DEBUG diff parser end
+2023-02-11 23:44:30,262 parso.cache DEBUG pickle loaded: c:\users\pabit\appdata\local\programs\python\python38\lib\typing.py
+2023-02-11 23:44:30,278 parso.cache DEBUG pickle loaded: c:\users\pabit\appdata\local\programs\python\python38\lib\site-packages\jedi\third_party\typeshed\stdlib\3\typing.pyi
+2023-02-11 23:44:30,353 parso.cache DEBUG pickle loaded: c:\users\pabit\appdata\local\programs\python\python38\lib\site-packages\jedi\third_party\typeshed\stdlib\3\sys.pyi
+2023-02-11 23:45:00,116 parso.python.diff DEBUG diff parser start
+2023-02-11 23:45:00,116 parso.python.diff DEBUG line_lengths old: 7; new: 11
+2023-02-11 23:45:00,116 parso.python.diff DEBUG -> code[equal] old[1:6] new[1:6]
+2023-02-11 23:45:00,117 parso.python.diff DEBUG copy old[1:2] new[1:2]
+2023-02-11 23:45:00,118 parso.python.diff DEBUG parse_part from 3 to 11 (to 10 in part parser)
+2023-02-11 23:45:00,118 parso.python.diff DEBUG -> code[replace] old[7:7] new[7:11]
+2023-02-11 23:45:00,118 parso.python.diff DEBUG diff parser end
+2023-02-11 23:45:03,715 parso.python.diff DEBUG diff parser start
+2023-02-11 23:45:03,716 parso.python.diff DEBUG line_lengths old: 11; new: 11
+2023-02-11 23:45:03,716 parso.python.diff DEBUG -> code[equal] old[1:10] new[1:10]
+2023-02-11 23:45:03,716 parso.python.diff DEBUG copy old[1:2] new[1:2]
+2023-02-11 23:45:03,717 parso.python.diff DEBUG parse_part from 3 to 11 (to 10 in part parser)
+2023-02-11 23:45:03,717 parso.python.diff DEBUG -> code[replace] old[11:11] new[11:11]
+2023-02-11 23:45:03,717 parso.python.diff DEBUG diff parser end
+2023-02-11 23:45:44,475 parso.python.diff DEBUG diff parser start
+2023-02-11 23:45:44,476 parso.python.diff DEBUG line_lengths old: 11; new: 13
+2023-02-11 23:45:44,476 parso.python.diff DEBUG -> code[equal] old[1:8] new[1:8]
+2023-02-11 23:45:44,476 parso.python.diff DEBUG copy old[1:2] new[1:2]
+2023-02-11 23:45:44,477 parso.python.diff DEBUG parse_part from 3 to 13 (to 12 in part parser)
+2023-02-11 23:45:44,477 parso.python.diff DEBUG -> code[replace] old[9:11] new[9:13]
+2023-02-11 23:45:44,477 parso.python.diff DEBUG diff parser end
+2023-02-11 23:55:05,749 root INFO entering inside list to check each element of list
+2023-02-11 23:55:05,749 root INFO if ith element is integer appending to new list
+2023-02-11 23:55:05,750 root INFO if ith element is integer appending to new list
+2023-02-11 23:55:05,750 root INFO if ith element is integer appending to new list
+2023-02-11 23:55:05,750 root INFO if ith element is integer appending to new list
+2023-02-11 23:55:05,750 root INFO If type of ith element is list perform this block of code 
+2023-02-11 23:55:05,750 root INFO iterating inside ith list and appending the element to the new list
+2023-02-11 23:55:05,750 root INFO iterating inside ith list and appending the element to the new list
+2023-02-11 23:55:05,750 root INFO iterating inside ith list and appending the element to the new list
+2023-02-11 23:55:05,750 root INFO iterating inside ith list and appending the element to the new list
+2023-02-11 23:55:05,750 root INFO If all the above block is false the executing else block and appending remaining element to 2nd new list
+2023-02-11 23:55:05,750 root INFO If all the above block is false the executing else block and appending remaining element to 2nd new list
